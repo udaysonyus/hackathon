@@ -1,0 +1,20 @@
+{
+  "skills":[
+    {
+      "id":1,
+      "src":"",
+      "title":"Explore Doctors",
+      "description":"",
+      "link" : "Explore",
+      "href" : "https://medi-friend.streamlit.app/"
+    },
+    {
+      "id":2,
+      "src" : "",
+      "title":"Explore plans",
+      "description":"",
+      "link" : "Explore",
+      "href" : "https://medifriend.streamlit.app/"
+    }
+]
+}
